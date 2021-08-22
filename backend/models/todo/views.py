@@ -7,6 +7,27 @@ from .serializers import TodoSerializer
 
 # Create your views here.
 
+'''
+    Cria as views desse modelo.
+
+    Views são equivalentes aos controllers do Node, etc.
+
+    Herda a classe ModelViewSet que cria o CRUD automaticamente.
+
+    Para poder criar uma view manualmente use o decorador @action(),
+    action sempre espera que o programador especifique os parâmetros methods e detail.
+
+    methods é uma lista com os métodos de requisição compatíveis com essa view 
+    (get, post, put, delete).
+
+    detail é um booleano que especifica se essa função deve receber um só item 
+    ou se deve trabalhar com todos os itens cadastrados.
+
+    O nome da função será igual ao caminho url para executa-la.
+
+    @see https://www.django-rest-framework.org/tutorial/3-class-based-views/
+'''
+
 
 class TodoView(viewsets.ModelViewSet):
 
