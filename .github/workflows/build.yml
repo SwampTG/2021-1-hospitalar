@@ -2,7 +2,7 @@ name: Build
 on:
   push:
     branches:
-      - master
+      - main
   pull_request:
     types: [opened, synchronize, reopened]
 jobs:
@@ -21,7 +21,7 @@ jobs:
         run: |
           cd ./frontend
           yarn
-          yarn test -- --coverage --testResultsProcessor=jest-sonar-reporter
+          CI=true yarn test -- --coverage --testResultsProcessor=jest-sonar-reporter
       - name: SonarCloud Scan
         uses: SonarSource/sonarcloud-github-action@master
         env:
