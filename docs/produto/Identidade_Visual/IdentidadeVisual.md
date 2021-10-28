@@ -51,7 +51,7 @@ Além disso, após testes realizados sobre a responsividade do projeto, a fonte 
 # Paleta de cores
 
 <p align="center">
-  <img src="/docs/assets/produtos/identidade_visual/paleta_de_cores.png">
+  <img src="https://github.com/fga-eps-mds/2021-1-hospitalar/blob/main//docs/assets/produtos/identidade_visual/paleta_de_cores.png?raw=true">
 </p>
 
 **#FFFEF2** - Utilizada no background.
