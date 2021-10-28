@@ -62,27 +62,27 @@ OU-->
 
 ## Burndown
 
-![burn](/docs/assets/sprints/time_b/sprint_9/burndown_sprint_9.png)
+![burn](https://github.com/fga-eps-mds/2021-1-hospitalar/blob/main/docs/assets/sprints/time_b/sprint_9/burndown_sprint_9.png?raw=true)
 
 O Burndown está prejudicado pois tivemos que reabrir issues que estavam sem pontuação por conta de alguns membros não terem feito o planning poker pelo zenhub.
 
 ## Velocity
 
-![velocity](/docs/assets/sprints/time_b/sprint_9/velocity_sprint_9.png)
+![velocity](https://github.com/fga-eps-mds/2021-1-hospitalar/blob/main/docs/assets/sprints/time_b/sprint_9/velocity_sprint_9.png?raw=true)
 
 Menor pontuação relativa a média. Possivelmente até o final do projeto, a média irá diminuir, porém com menos débitos entre sprints e maior satisfação dos membros com as entregas.
 
 ## Cumulative Flow
 
-![cumuflow](/docs/assets/sprints/time_b/sprint_9/cumu_flow_sprint_9.png)
+![cumuflow](https://github.com/fga-eps-mds/2021-1-hospitalar/blob/main/docs/assets/sprints/time_b/sprint_9/cumu_flow_sprint_9.png?raw=true)
 
 ## Quadro de Conhecimentos
 
-![knowledge](/docs/assets/sprints/time_b/sprint_9/quadro_de_conhecimento_sprint_9.png)
+![knowledge](https://github.com/fga-eps-mds/2021-1-hospitalar/blob/main/docs/assets/sprints/time_b/sprint_9/quadro_de_conhecimento_sprint_9.png?raw=true)
 
 ## Squad Health Check
 
-![health](/docs/assets/sprints/time_b/sprint_9/health_check_sprint_9.png)
+![health](https://github.com/fga-eps-mds/2021-1-hospitalar/blob/main/docs/assets/sprints/time_b/sprint_9/health_check_sprint_9.png?raw=true)
 
 ## Práticas ágeis
 
@@ -93,7 +93,7 @@ Menor pontuação relativa a média. Possivelmente até o final do projeto, a m�
 |  3  |                 Reunião de planejamento de Sprint                  | &#10004; |
 |  4  |                           Planning Poker                           | &#10004; |
 |  5  |      Comprometimento do time e do PO com o backlog do produto      | &#10004; |
-|  6  |         Os membros da equipe são voluntários para tarefas          | &#10004; |
+|  6  |         Os membros da equipe são voluntários para tarefas          | &#10060; |
 |  7  |                      Restrospectiva da Sprint                      | &#10004; |
 |  8  |                     Acompanhamento do Velocity                     | &#10004; |
 |  9  |                            User Stories                            | &#10004; |
